@@ -58,7 +58,13 @@ It's really hard to find software with good design & animations on desktop. It's
 Harmonoid very strictly implements [Material Design](https://user-images.githubusercontent.com/28951144/187515841-265b2f6e-4ee3-4db5-b06d-0f7f5d684da9.webm) to be a consistent, cohesive & modern music player for all platforms.
 
 There are no inconsistent paddings, spacings or weird alignments to make me feel uncomfortable. It's built with care & proper time is given to everything. Learn more about the project on [official website](https://harmonoid.com/) [until I can afford this domain].
+## FAQ
+1. a) How to change visuals/background gif/background image?
+   b) How to add your own visuals?
+Play a song- Any song. Then click on the album cover in the bottom left to enlarge it and open the visual view. Then click on the arrows at the bottom. voila!
+![image](https://github.com/user-attachments/assets/4e2ee1d9-1a2e-48b1-b521-9cbd871ede9f)
 
+2.
 ## Supporters
 
 ### Patreons
